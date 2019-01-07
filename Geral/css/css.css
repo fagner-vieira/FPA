@@ -1,0 +1,165 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*  Small: 768 
+    Medium: 992
+    Large: 1200 */
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bgTopo{
+    background-image: url(../images/bgTopo.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.marginOne{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+/*   */
+
+.bgPromo{
+    background-image: url(../images/bgPromo.png);
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 260px;
+    width: 333px;
+}
+
+.txtOne{
+    color: #fff;
+    text-align: center;
+    font-size: 1.6em;
+    text-transform: uppercase;
+    line-height: 22px;
+    margin-top: 18px;
+}
+
+.txtTwo{
+    color: #1a1a1a;
+    text-align: center;
+    font-weight: 700;
+    font-size: 7.5em;
+}
+
+.txtThree{
+    color: #fff;
+    text-align: center;
+    font-size: 1.6em;
+    text-transform: uppercase;
+    margin-top: -15px;
+}
+
+.bgForm{
+    background-color: #1a1a1a;
+    border-radius: 10px;
+    height: 260px;
+    width: 333px;
+    margin-left: 10%;
+}
+
+.hotEnviar{
+    background-color: #f0f203;
+    border-radius: 10px;
+    padding: 2% 3%;
+    border: 0 solid;
+    color: #1a1a1a;
+    font-weight: 700;
+}
+
+/*   */
+
+.bgTwo{
+    background-color: #1a1a1a;
+}
+
+.txtFive{
+    font-size: 1.1em;
+    color: #fff;
+}
+
+.txtSix{
+    font-size: 1.3em;
+    color: #fff;
+    text-align: center;
+}
+
+.barra{
+    border-left: #1a1a1a solid 2px;
+    border-right: #1a1a1a solid 2px;
+}
+
+.txtSeven{
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.2em;
+}
+
+.txtSevenB{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+/*   */
+
+.bgThree{
+    background-color: #efefef;
+}
+
+.txtEight{
+    font-size: 1.4em;
+    font-weight: 700;
+}
+
+.txtNine{
+    font-size: 1.2em;
+}
+
+/*   */
+
+.txtTen{
+    font-weight: 700;
+    font-size: 1.2em;
+    color: #fff;
+}
+
+.txtTenB{
+    font-size: 1.2em;
+    color: #fff;
+}
+
+.barraB{
+    border-left: #fff solid 2px;
+}
+
+/*  MOBILE */
+
+@media (max-width: 767px){
+    .bgTopo{
+        background-image: url(../images/bgMobile.jpg);
+        background-position: center center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .txtOne {
+        padding-top: 14px;
+    }
+    .bgForm {
+        margin-left: 0;
+    }
+    .barra{
+        border-left: #1a1a1a solid 0px;
+        border-right: #1a1a1a solid 0px;
+        border-top: #e8e8e8 solid 2px;
+        border-bottom: #e8e8e8 solid 2px;
+        
+    }
+}
