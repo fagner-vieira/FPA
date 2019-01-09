@@ -93,13 +93,13 @@
 			<div class="container">
 				<div class="row marginOne">
 					<div class="col-lg-6">
-						<p class="txtFive"> <strong>Artes visuais</strong></p>
-						<p class="txtFive">Aqui a formação acadêmica é construída através do desenvolvimento de um processo criativo crítico, flexível e reflexivo da construção de conhecimentos em Arte. São eles: experimentação, elaboração, produção artística e apreciação contextualizada.<br/>Com isso, ao final de apenas 3 anos, nossos alunos saem prontos para atuar como professores na educação básica ou na educação não-formal. Além disso, podem também atuar como produtores culturais autônomos: artistas, agentes culturais em museus, galerias e espaços culturais; ONG's, programas sociais e recreativos.</p>
+						<p class="txtFive"> <strong>EAD</strong></p>
+						<p class="txtFive">Nem sempre uma faculdade 100% presencial é o ideal para você. Infinitas variantes podem te fazer escolher uma graduação EAD, por esse motivo fizemos uma parceria muito especial com a Universidade Positivo. Juntos, fomos capazes de ampliar o rol de cursos oferecidos e ainda proporcionar uma oportunidade de estudo a todos que hoje necessitam de horários mais flexíveis para estudar, mas que exigem um alto padrão de ensino.</p>
 					</div>
 					<div class="col-lg-6">
-							<p class="txtFive"> <strong>Infraestrutura</strong></p>
-							<p class="txtFive">Nossas salas de aula são preparadas para garantir a melhor absorção do conteúdo teórico, além disso, contamos com oficinas especiais para o desenvolvimento da criatividade nas áreas de:</p>
-							<p class="txtFive">• Pintura e Desenho<br/>• Escultura e Cerâmica<br/>• Fotografia e Informática</p>
+							<p class="txtFive"> <strong>&nbsp;</strong></p>
+							<p class="txtFive">Todos os cursos são altamente reconhecidos no mercado de trabalho e contam com excelentes conceitos conquistados no ENADE, além de ótimas avaliações do MAC.</p>
+							<p class="txtFive">Venha fazer parte desta parceria!</p>
 						</div>
 				</div>
 			</div>
